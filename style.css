@@ -49,7 +49,7 @@ body {
 .img {
     height: 100%;
     width: 80%;
-    background-image: ("JujutsuKaisen2.gif");
+    background-image: url("https://github.com/SEADAsXs/start_page/blob/main/JujutsuKaisen2.gif");
     background-size: cover;
     background-position: center;
     border-radius: 1rem;
