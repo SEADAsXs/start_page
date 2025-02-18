@@ -21,7 +21,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url ("https://github.com/SEADAsXs/start_page/blob/main/background.jpg");
+    background-image: url("https://github.com/SEADAsXs/start_page/blob/main/background.jpg");
 }
 
 .container {
